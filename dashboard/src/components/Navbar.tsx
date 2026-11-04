@@ -10,8 +10,8 @@ const Navbar = () => {
                 <img src={react} alt="" width={30}/>
                 <h3 className="text-blue-500 font-bold text-2xl">React</h3>
             </div>
-            <div className="grid">
-                <h1 className="font-semibold text-sm">Student</h1>
+            <div className="flex gap-3">
+                <h1 className="font-semibold">Student</h1>
                 <User size={25}/>
             </div>        
         </nav>

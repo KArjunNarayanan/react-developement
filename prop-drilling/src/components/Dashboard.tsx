@@ -1,21 +1,21 @@
 // Prop Drilling
 
-import Profile from "./Profile";
+// import Profile from "./Profile";
 
-interface User {
-    username: string;
-}
+// interface User {
+//     username: string;
+// }
 
-const Dashboard = ({username}:User) => {
-    return (
-        <>
-            <h3>Dashboard Component</h3>
-            <p>Name: {username}</p>
-            <Profile username={username}/>
-        </>
-    )   
-}
-export default Dashboard;
+// const Dashboard = ({username}:User) => {
+//     return (
+//         <>
+//             <h3>Dashboard Component</h3>
+//             <p>Name: {username}</p>
+//             <Profile username={username}/>
+//         </>
+//     )   
+// }
+// export default Dashboard;
 
 
 // Context

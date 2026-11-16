@@ -19,6 +19,14 @@ A collection of React concepts and practical implementations using modern fronte
 - Context API
 - useContext Hook
 - useRef Hook
+- useMemo Hook
+- useCallback Hook
+- React.memo()
+- Custom Hooks
+- React Router DOM
+- BrowserRouter
+- Link & useNavigate
+- Routes & Route
 
 
 ---

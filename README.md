@@ -27,6 +27,10 @@ A collection of React concepts and practical implementations using modern fronte
 - BrowserRouter
 - Link & useNavigate
 - Routes & Route
+- Nested Routing
+- Protected Routes
+- Navigate Component
+- Outlet Component
 
 
 ---
